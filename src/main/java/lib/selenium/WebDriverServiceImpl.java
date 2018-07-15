@@ -352,6 +352,7 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 
 	public void printDummy() {
 		System.out.println("check");
+		System.out.println("adding new line of code");
 	}
 
 
