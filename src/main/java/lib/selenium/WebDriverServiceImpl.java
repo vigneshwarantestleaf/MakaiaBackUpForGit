@@ -349,4 +349,10 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 	public void closeAllBrowsers() {
 			driver.quit();
 	}
+
+	public void printDummy() {
+		System.out.println("check");
+	}
+
+
 }
