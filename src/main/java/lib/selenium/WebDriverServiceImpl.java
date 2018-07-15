@@ -350,10 +350,4 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 			driver.quit();
 	}
 
-	public void printDummy() 
-	
-	{
-	}
-
-
 }
